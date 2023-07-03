@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 public class day25 {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
-		// TODO Auto-generated method stub
+		// 정수 N이 주어졌을 때, 소인수분해하는 프로그램
 
 		
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
